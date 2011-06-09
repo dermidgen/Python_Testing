@@ -14,11 +14,15 @@ correct path to the python binary and has been chmod to be executable
 ### Finding Python Path
 If you're not sure where python is on your system - you can find the path
 to the binary by running:
+```sh
 > which python
+```
 
 ## HelloWorld.py
 Exclusively for a Hello World print out
 
 ### Invoking
+```sh
 > python HelloWorld.py
 > ./HelloWorld.py
+```
